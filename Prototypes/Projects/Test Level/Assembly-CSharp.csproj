@@ -48,6 +48,7 @@
      <Compile Include="Assets\Design\Scripts\ButtonMovement.cs" />
      <Compile Include="Assets\Design\Scripts\CameraShake.cs" />
      <Compile Include="Assets\Design\Scripts\CarriageDetachTrigger.cs" />
+     <Compile Include="Assets\Design\Scripts\CloudMovement.cs" />
      <Compile Include="Assets\Design\Scripts\DoubleTap.cs" />
      <Compile Include="Assets\Design\Scripts\Forest.cs" />
      <Compile Include="Assets\Design\Scripts\HorizontalMove.cs" />
@@ -128,17 +129,11 @@
      <None Include="Assets\Ferr\Docs\FerrSuperCube - Readme.txt" />
      <None Include="Assets\Ferr\Common\Shaders\UnlitSolidColorTransparent.shader" />
      <None Include="Assets\ProCore\ProBuilder\About\Credits.txt" />
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Analytics">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="ProBuilderCore-Unity5">
  <HintPath>C:/Users/tyler.roach/Documents/GitHub/AdelaidePrototype/Prototypes/Projects/Test Level/Assets/ProCore/ProBuilder/Classes/ProBuilderCore-Unity5.dll</HintPath>
