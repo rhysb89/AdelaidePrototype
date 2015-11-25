@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Design\Scripts\NewScripts\PauseMenu.cs">
+    <Files>
+      <File FileName="Assets\Design\Scripts\NewScripts\BoatFinish.cs" Line="11" Column="30" />
+      <File FileName="Assets\Design\Scripts\LoadLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\LevelLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\NewScripts\SoundOn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\dayNight.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\Moved.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\CloudMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\NewScripts\AIInMEnu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\RotateObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\NewScripts\TrainDriverTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\NewScripts\ResetPosition.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\camp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\NewScripts\Timer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\LeakTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\NewScripts\TopPickUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\NewScripts\Movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\NewScripts\FireOutFinIsh.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\TorchMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\NewScripts\PauseMenu.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

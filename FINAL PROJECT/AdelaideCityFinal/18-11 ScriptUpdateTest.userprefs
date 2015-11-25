@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Design\Scripts\LevelLoader.cs">
+    <Files>
+      <File FileName="Assets\Design\Scripts\SnakeMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\NewScripts\Timer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\Tunnel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\NewScripts\TrainDriverTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\NewScripts\FillBucket.cs" Line="1" Column="1" />
+      <File FileName="Assets\Tutorial.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\LevelLoader.cs" Line="84" Column="4" />
+      <File FileName="Assets\Design\Scripts\LoadLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\SaveData.cs" Line="1" Column="1" />
+      <File FileName="Assets\CharacterSelect.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\NewScripts\AIInLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\KaurnaHints.cs" Line="43" Column="1" />
+      <File FileName="Assets\Design\Scripts\Forest.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\camp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\NewScripts\ShipHint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\SpyglassTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\Spyglass.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\NewScripts\ParliamentHint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\NewScripts\StatueLevelHint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Design\Scripts\NewScripts\BoatFinish.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

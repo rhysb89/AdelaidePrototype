@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: ea8a549a35237b14b834c126bbadeeba
+timeCreated: 1445991905
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Character1_Reference
+    100002: Character2_Reference
+    100004: Character3_Ctrl_ChestEndEffector
+    100006: Character3_Ctrl_ChestOriginEffector
+    100008: Character3_Ctrl_HeadEffector
+    100010: Character3_Ctrl_HipsEffector
+    100012: Character3_Ctrl_LeftAnkleEffector
+    100014: Character3_Ctrl_LeftElbowEffector
+    100016: Character3_Ctrl_LeftHipEffector
+    100018: Character3_Ctrl_LeftKneeEffector
+    100020: Character3_Ctrl_LeftShoulderEffector
+    100022: Character3_Ctrl_LeftWristEffector
+    100024: Character3_Ctrl_Reference
+    100026: Character3_Ctrl_RightAnkleEffector
+    100028: Character3_Ctrl_RightElbowEffector
+    100030: Character3_Ctrl_RightHipEffector
+    100032: Character3_Ctrl_RightKneeEffector
+    100034: Character3_Ctrl_RightShoulderEffector
+    100036: Character3_Ctrl_RightWristEffector
+    100038: Character3_Head
+    100040: Character3_Hips
+    100042: Character3_LeftArm
+    100044: Character3_LeftFoot
+    100046: Character3_LeftForeArm
+    100048: Character3_LeftHand
+    100050: Character3_LeftLeg
+    100052: Character3_LeftShoulder
+    100054: Character3_LeftUpLeg
+    100056: Character3_Neck
+    100058: Character3_RightArm
+    100060: Character3_RightFoot
+    100062: Character3_RightForeArm
+    100064: Character3_RightHand
+    100066: Character3_RightLeg
+    100068: Character3_RightShoulder
+    100070: Character3_RightUpLeg
+    100072: Character3_Spine
+    100074: Character3_Spine1
+    100076: Character3_Spine2
+    100078: Character4_Reference
+    100080: e
+    100082: left
+    100084: //RootNode
+    100086: pPlane5
+    400000: Character1_Reference
+    400002: Character2_Reference
+    400004: Character3_Ctrl_ChestEndEffector
+    400006: Character3_Ctrl_ChestOriginEffector
+    400008: Character3_Ctrl_HeadEffector
+    400010: Character3_Ctrl_HipsEffector
+    400012: Character3_Ctrl_LeftAnkleEffector
+    400014: Character3_Ctrl_LeftElbowEffector
+    400016: Character3_Ctrl_LeftHipEffector
+    400018: Character3_Ctrl_LeftKneeEffector
+    400020: Character3_Ctrl_LeftShoulderEffector
+    400022: Character3_Ctrl_LeftWristEffector
+    400024: Character3_Ctrl_Reference
+    400026: Character3_Ctrl_RightAnkleEffector
+    400028: Character3_Ctrl_RightElbowEffector
+    400030: Character3_Ctrl_RightHipEffector
+    400032: Character3_Ctrl_RightKneeEffector
+    400034: Character3_Ctrl_RightShoulderEffector
+    400036: Character3_Ctrl_RightWristEffector
+    400038: Character3_Head
+    400040: Character3_Hips
+    400042: Character3_LeftArm
+    400044: Character3_LeftFoot
+    400046: Character3_LeftForeArm
+    400048: Character3_LeftHand
+    400050: Character3_LeftLeg
+    400052: Character3_LeftShoulder
+    400054: Character3_LeftUpLeg
+    400056: Character3_Neck
+    400058: Character3_RightArm
+    400060: Character3_RightFoot
+    400062: Character3_RightForeArm
+    400064: Character3_RightHand
+    400066: Character3_RightLeg
+    400068: Character3_RightShoulder
+    400070: Character3_RightUpLeg
+    400072: Character3_Spine
+    400074: Character3_Spine1
+    400076: Character3_Spine2
+    400078: Character4_Reference
+    400080: e
+    400082: left
+    400084: //RootNode
+    400086: pPlane5
+    4300000: pPlane5
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: pPlane5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character1_Reference
+        weight: 1
+      - path: Character2_Reference
+        weight: 1
+      - path: Character3_Ctrl_Reference
+        weight: 1
+      - path: Character3_Ctrl_Reference/Character3_Ctrl_ChestEndEffector
+        weight: 1
+      - path: Character3_Ctrl_Reference/Character3_Ctrl_ChestOriginEffector
+        weight: 1
+      - path: Character3_Ctrl_Reference/Character3_Ctrl_HeadEffector
+        weight: 1
+      - path: Character3_Ctrl_Reference/Character3_Ctrl_HipsEffector
+        weight: 1
+      - path: Character3_Ctrl_Reference/Character3_Ctrl_LeftAnkleEffector
+        weight: 1
+      - path: Character3_Ctrl_Reference/Character3_Ctrl_LeftElbowEffector
+        weight: 1
+      - path: Character3_Ctrl_Reference/Character3_Ctrl_LeftHipEffector
+        weight: 1
+      - path: Character3_Ctrl_Reference/Character3_Ctrl_LeftKneeEffector
+        weight: 1
+      - path: Character3_Ctrl_Reference/Character3_Ctrl_LeftShoulderEffector
+        weight: 1
+      - path: Character3_Ctrl_Reference/Character3_Ctrl_LeftWristEffector
+        weight: 1
+      - path: Character3_Ctrl_Reference/Character3_Ctrl_RightAnkleEffector
+        weight: 1
+      - path: Character3_Ctrl_Reference/Character3_Ctrl_RightElbowEffector
+        weight: 1
+      - path: Character3_Ctrl_Reference/Character3_Ctrl_RightHipEffector
+        weight: 1
+      - path: Character3_Ctrl_Reference/Character3_Ctrl_RightKneeEffector
+        weight: 1
+      - path: Character3_Ctrl_Reference/Character3_Ctrl_RightShoulderEffector
+        weight: 1
+      - path: Character3_Ctrl_Reference/Character3_Ctrl_RightWristEffector
+        weight: 1
+      - path: Character4_Reference
+        weight: 1
+      - path: e
+        weight: 1
+      - path: e/Character3_Hips
+        weight: 1
+      - path: e/Character3_Hips/Character3_LeftUpLeg
+        weight: 1
+      - path: e/Character3_Hips/Character3_LeftUpLeg/Character3_LeftLeg
+        weight: 1
+      - path: e/Character3_Hips/Character3_LeftUpLeg/Character3_LeftLeg/Character3_LeftFoot
+        weight: 1
+      - path: e/Character3_Hips/Character3_RightUpLeg
+        weight: 1
+      - path: e/Character3_Hips/Character3_RightUpLeg/Character3_RightLeg
+        weight: 1
+      - path: e/Character3_Hips/Character3_RightUpLeg/Character3_RightLeg/Character3_RightFoot
+        weight: 1
+      - path: e/Character3_Hips/Character3_Spine
+        weight: 1
+      - path: e/Character3_Hips/Character3_Spine/Character3_Spine1
+        weight: 1
+      - path: e/Character3_Hips/Character3_Spine/Character3_Spine1/Character3_Spine2
+        weight: 1
+      - path: e/Character3_Hips/Character3_Spine/Character3_Spine1/Character3_Spine2/Character3_LeftShoulder
+        weight: 1
+      - path: e/Character3_Hips/Character3_Spine/Character3_Spine1/Character3_Spine2/Character3_LeftShoulder/Character3_LeftArm
+        weight: 1
+      - path: e/Character3_Hips/Character3_Spine/Character3_Spine1/Character3_Spine2/Character3_LeftShoulder/Character3_LeftArm/Character3_LeftForeArm
+        weight: 1
+      - path: e/Character3_Hips/Character3_Spine/Character3_Spine1/Character3_Spine2/Character3_LeftShoulder/Character3_LeftArm/Character3_LeftForeArm/Character3_LeftHand
+        weight: 1
+      - path: e/Character3_Hips/Character3_Spine/Character3_Spine1/Character3_Spine2/Character3_Neck
+        weight: 1
+      - path: e/Character3_Hips/Character3_Spine/Character3_Spine1/Character3_Spine2/Character3_Neck/Character3_Head
+        weight: 1
+      - path: e/Character3_Hips/Character3_Spine/Character3_Spine1/Character3_Spine2/Character3_RightShoulder
+        weight: 1
+      - path: e/Character3_Hips/Character3_Spine/Character3_Spine1/Character3_Spine2/Character3_RightShoulder/Character3_RightArm
+        weight: 1
+      - path: e/Character3_Hips/Character3_Spine/Character3_Spine1/Character3_Spine2/Character3_RightShoulder/Character3_RightArm/Character3_RightForeArm
+        weight: 1
+      - path: e/Character3_Hips/Character3_Spine/Character3_Spine1/Character3_Spine2/Character3_RightShoulder/Character3_RightArm/Character3_RightForeArm/Character3_RightHand
+        weight: 1
+      - path: left
+        weight: 1
+      - path: pPlane5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

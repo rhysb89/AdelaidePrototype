@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 451e80cd8a19f624794b3528a63aee29
+timeCreated: 1447219731
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - soundOne: {fileID: 8300000, guid: 55d588aee3720a1478c1bc942026178c, type: 3}
+  - soundTwo: {fileID: 8300000, guid: 20817a354fbc0424d8beb398747cea6d, type: 3}
+  - soundThree: {fileID: 8300000, guid: 21c0c3ce845f5dc45ad662bc7aa72ec7, type: 3}
+  - soundFour: {fileID: 8300000, guid: a9f395cbe66e9c14ea96a1413840888e, type: 3}
+  - soundFive: {fileID: 8300000, guid: 6b8e69103e2713a4eba54c5d4d19fc1c, type: 3}
+  - soundSix: {fileID: 8300000, guid: 36a2445995c8efc4eb4c6320908c86bd, type: 3}
+  - soundSeven: {fileID: 8300000, guid: e456a6fc4bc19124ead66a0dba94cf3f, type: 3}
+  - soundEight: {fileID: 8300000, guid: f93dddf9ddd0cd74184959ab65f84327, type: 3}
+  - soundNine: {fileID: 8300000, guid: 0c5d39b04690c4e46b6d7b831006d9aa, type: 3}
+  - soundTen: {fileID: 8300000, guid: f98829edbd0c0744fb1a42e7b02003d1, type: 3}
+  - soundEleven: {fileID: 8300000, guid: 0b1bbd1b85fde8b4483a11e74db1aa82, type: 3}
+  - soundTwelve: {fileID: 8300000, guid: bbabed75c97281a46b805077e8d02c9f, type: 3}
+  - sound13: {fileID: 8300000, guid: b8537ae4bf764c144990bc1e773ff96b, type: 3}
+  - sound14: {fileID: 8300000, guid: c6f29f571e9481f42ace0cb469726027, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
